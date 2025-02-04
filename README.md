@@ -1,7 +1,7 @@
 # xDuinoRails-Hermes-M
 Connect your model railroad to a microcontroller:
 
-![image](https://github.com/user-attachments/assets/e1d55988-35cc-494f-bfee-de38d59e6c70  | width=300)
+![image](https://github.com/user-attachments/assets/e1d55988-35cc-494f-bfee-de38d59e6c70)
 
 ## Buy a copy on tindie:
 - https://www.tindie.com/products/chatelao/dccrailcom-interface-for-arduino-decoders/
