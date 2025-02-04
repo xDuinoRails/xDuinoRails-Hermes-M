@@ -19,4 +19,4 @@ Built as breadboard friedly as possible.
 
 ## More pictures
 
-<img src="https://github.com/user-attachments/assets/e1d55988-35cc-494f-bfee-de38d59e6c70" width=400px>
+<img src="https://github.com/user-attachments/assets/80b755b4-a0af-48e9-9869-358bb5b8e2da" width=400px>
