@@ -6,8 +6,9 @@ Connect your DCC model railroad to a microcontroller:
 ## Description
 Bridge your DCC model railroad to a microcontroller on a breadboard:
 
-- Input: DCC signal
-- Output: Railcom & DCC-ACK signals
+- Output: DCC signal for decoding (33k resistor)
+- Input: DCC-ACK encoding to rails (60mA load)
+- Input: RailCom encoding to rails (30mA current source)
 - Power source (1): +5V 
 - Power source (2): Recified railroad power
 
